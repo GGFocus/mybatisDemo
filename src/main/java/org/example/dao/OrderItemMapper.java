@@ -7,6 +7,7 @@ import org.example.domain.OrderItem;
 import org.example.domain.Product;
 
 /**
+ * 订单
  * Created on 2020-10-29
  */
 public interface OrderItemMapper {

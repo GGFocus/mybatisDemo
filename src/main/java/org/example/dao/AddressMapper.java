@@ -6,6 +6,7 @@ import org.apache.ibatis.annotations.Param;
 import org.example.domain.Address;
 
 /**
+ * 送货地址
  * Created on 2020-10-29
  */
 public interface AddressMapper {

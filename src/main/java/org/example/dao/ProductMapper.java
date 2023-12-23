@@ -6,6 +6,7 @@ import org.example.domain.Address;
 import org.example.domain.Product;
 
 /**
+ * 电商平台商品
  * Created on 2020-10-29
  */
 public interface ProductMapper {
